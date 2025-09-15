@@ -16,21 +16,20 @@
     "desc": "Una comedia divertida."
   },
   {
-    "id": "v-doc-3",
+    "id": "v-doc-3a",
     "title": "Documental 3",
     "category": "Documental",
     "thumb": "https://via.placeholder.com/640x360.png?text=Documental+3",
     "embed": "https://dood.stream/e/video3",
     "desc": "Un documental interesante."
   },
-
   {
     "id": "v-terror-4",
     "title": "Terror 4",
     "category": "Festival",
     "thumb": "https://cdn-s3.cfglobalcdn.com/flv/api/files/thumbs_new/2025/09/14/1757817314cwrqz/1757817314cwrqz-640x480-4.jpg",
     "embed": "https://hqq.ac/e/L201ZnFnVGpvakJJYmdkYVdKZm9JZz09",
-    "desc": "Thong in festival."
+    "desc": "Evento de festival."
   },
   {
     "id": "cammy",
@@ -38,18 +37,14 @@
     "category": "Cosplayer",
     "thumb": "https://dsimgcdn.com/splash/n5ieiyrxnewzf52n.jpg",
     "embed": "https://d-s.io/e/nugd8n4wkfp1",
-    "desc": "Fat ass cammy cosplayer."
+    "desc": "Cosplayer de Cammy en evento."
   },
-   {
-      "id": "leggins1",
-      "title": "Documental 3",
-      "category": "Leggins",
-      "thumb": "https://dsimgcdn.com/splash/d46re0d2b5w2s71w.jpg",
-      "embed": "https://d-s.io/e/dw6uvj38lsgz",
-      "desc": none."
-    },
-
+  {
+    "id": "v-doc-3b",
+    "title": "Documental 3",
+    "category": "Leggins",
+    "thumb": "https://dsimgcdn.com/splash/d46re0d2b5w2s71w.jpg",
+    "embed": "https://d-s.io/e/dw6uvj38lsgz",
+    "desc": null
+  }
 ]
-
-
-
