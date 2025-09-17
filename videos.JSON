@@ -24,7 +24,7 @@
     "desc": "Un documental interesante."
   },
   {
-    "id": "v-terror-4",
+    "id": "v-terror-festival-4",
     "title": "Terror 4",
     "category": "Festival",
     "thumb": "https://cdn-s3.cfglobalcdn.com/flv/api/files/thumbs_new/2025/09/14/1757817314cwrqz/1757817314cwrqz-640x480-4.jpg",
@@ -32,7 +32,7 @@
     "desc": "Evento de festival."
   },
   {
-    "id": "cammy",
+    "id": "cosplay-cammy-1",
     "title": "Dragon Con 4 SHORT 01",
     "category": "Cosplayer",
     "thumb": "https://dsimgcdn.com/splash/n5ieiyrxnewzf52n.jpg",
@@ -40,57 +40,43 @@
     "desc": "Cosplayer de Cammy en evento."
   },
   {
-    "id": "v-doc-3b",
+    "id": "leggins-doc-1",
     "title": "Documental 3",
     "category": "Leggins",
     "thumb": "https://dsimgcdn.com/splash/d46re0d2b5w2s71w.jpg",
     "embed": "https://d-s.io/e/dw6uvj38lsgz",
-    "desc": null
+    "desc": "Video de la categoría Leggins."
   },
   {
-    "id": "Pawg",
+    "id": "pawg-doc-1",
     "title": "Documental 3",
     "category": "Pawg",
     "thumb": "https://dsimgcdn.com/splash/hizqz9qwj5rig5nv.jpg",
     "embed": "https://d-s.io/e/obr3zxf3exvs",
-    "desc": null
+    "desc": "Video de la categoría Pawg."
   },
-   {
-      "id": "3",
-      "title": "Blonde leggins",
-      "category": "Leggins",
-      "thumb": "https://dsimgcdn.com/splash/7i5w3j84nazdksfz.jpg",
-      "embed": "https://d-s.io/e/g511db14q4bw",
-      "desc": null
-    },
-   {
-      "id": "1",
-      "title": "Blonde leggins",
-      "category": "Leggins",
-      "thumb": "https://dsimgcdn.com/splash/fyc5vpbqvjx7hh7d.jpg",
-      "embed": "https://d-s.io/e/kdsbi9dzlkh0",
-      "desc": null
-    },
-    {
-        "id": "2",
-        "title": "Blonde leggins",
-        "category": "Leggins",
-        "thumb": "https://dsimgcdn.com/splash/uioh0dilpvbu01lo.jpg",
-        "embed": "https://d-s.io/e/ea0t4yph8qez",
-        "desc": null
-      },
-    {
-        "id": "4",
-        "title": "Blonde leggins",
-        "category": "Leggins",
-        "thumb": "https://dsimgcdn.com/splash/d46re0d2b5w2s71w.jpg",
-        "embed": "https://d-s.io/e/dw6uvj38lsgz",
-        "desc": null
-    }
-  ]
-
-
-
-
-
-
+  {
+    "id": "leggins-blonde-1",
+    "title": "Blonde leggins 1",
+    "category": "Leggins",
+    "thumb": "https://dsimgcdn.com/splash/7i5w3j84nazdksfz.jpg",
+    "embed": "https://d-s.io/e/g511db14q4bw",
+    "desc": "Modelo rubia con leggins."
+  },
+  {
+    "id": "leggins-blonde-2",
+    "title": "Blonde leggins 2",
+    "category": "Leggins",
+    "thumb": "https://dsimgcdn.com/splash/fyc5vpbqvjx7hh7d.jpg",
+    "embed": "https://d-s.io/e/kdsbi9dzlkh0",
+    "desc": "Modelo rubia con leggins."
+  },
+  {
+    "id": "leggins-blonde-3",
+    "title": "Blonde leggins 3",
+    "category": "Leggins",
+    "thumb": "https://dsimgcdn.com/splash/uioh0dilpvbu01lo.jpg",
+    "embed": "https://d-s.io/e/ea0t4yph8qez",
+    "desc": "Modelo rubia con leggins."
+  }
+]
